@@ -2,9 +2,10 @@
 
 #Here i am going to show you the basics of how to scrape a website using BeautifulSoup
 
-#  Requirments: first open your terminal on pycharm and install bs4 using: -pip install bs4
+#  Requirments: Open your terminal on pycharm and install bs4 and requests using: -pip install bs4 and -pip install requests
+
+# import following libraries
 from bs4 import BeautifulSoup
-# secondly install requests using the same terminal:  -pip install requests
 import requests
 
 
@@ -16,5 +17,7 @@ page.content
 
 #we create the soup
 soup = BeautifulSoup(page.content, "html.parser")
+
+
 #Pring the soup
 print(soup.text)
