@@ -1,7 +1,7 @@
 # web_scrapping_with_python
 
 
-[Project 1: web_scraping](main.py)
+[Project 1: web_scraping code ](main.py)
 I've written a pyhton code to scarpe a website using BeautifulSoup and requests 
 
 mainely I wrote this code to give the beginers some idea of web scraping 
