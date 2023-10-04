@@ -2,9 +2,9 @@
 
 
 [Project 1: web_scraping_code ](main.py)
-I've written a pyhton code to scarpe a website using BeautifulSoup and requests 
+I've written a simple pyhton code to scarpe a website using BeautifulSoup and requests 
 
-mainely I wrote this code to give the beginers some idea of web scraping 
+mainely I wrote this code to give the beginers some idea of web scraping
 
 please feel free to have a look at it if you are intrested or if you like to use it
 
